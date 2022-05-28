@@ -49,4 +49,3 @@ const registerEvents = () => {
 }
 
 window.addEventListener("load", registerEvents)
-    // novo codigo
